@@ -1,0 +1,6 @@
+{
+  "name": "Paranormal Mechanism Portal",
+  "description": "An elegant fullscreen portal and direct access gate for the Paranormal Mechanism application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
